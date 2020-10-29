@@ -1,0 +1,4 @@
+flask api   : get  method
+rds         : create/insert data in rds using mysql database
+csv         : create csv file and insert data to csv from rds
+s3          : upload csv to s3
